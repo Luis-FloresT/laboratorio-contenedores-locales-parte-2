@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/infra/">
+    <Project Path="infra/Laboratorio.AppHost/Laboratorio.AppHost.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Laboratorio.Api/Laboratorio.Api.csproj" />
+    <Project Path="src/Laboratorio.ServiceDefaults/Laboratorio.ServiceDefaults.csproj" />
+  </Folder>
+</Solution>
